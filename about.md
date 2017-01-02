@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I am Wan-Ru Yang （楊婉如). 
+I am a Ph.D. candidate at UC Davis now looking for a data analyst/ GIS analyst/ data scientist position in San Francisco/ Bay Area. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Random topics on data, map, and baking.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zu@siraya.net](mailto:zu@siraya.net)
