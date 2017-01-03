@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-A map is worth a thousand words (つ◕౪◕)つ━☆ﾟ.*･｡ﾟ
+Random topics on data analysis, mapping, and baking
