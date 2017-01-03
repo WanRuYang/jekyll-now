@@ -9,7 +9,7 @@ recipes and photos posted to pick/assemble the one I liked.
 
 After several trials, here is my product:
 
-![Macaroon]({{ site.baseurl }}/images/macaroon.jpg
+![Macaroon]({{ site.baseurl }}/images/macaroon.jpg)
 
 #### Ingredients
 - 1 egg white
