@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-A map is worth a thousand words (*ﾟー^)/'`*:;,．★
-
-### Contact me
-
-[zu@siraya.net](mailto:zu@siraya.net)
+A map is worth a thousand words (つ◕౪◕)つ━☆ﾟ.*･｡ﾟ
