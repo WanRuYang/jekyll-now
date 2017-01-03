@@ -9,7 +9,7 @@ I am a Ph.D. candidate at UC Davis now looking for a data analyst/ GIS analyst/ 
 
 ### More Information
 
-Random topics on data, map, and baking.
+Random topics on data analysis, mapping, and baking.
 
 
 ### Contact me
