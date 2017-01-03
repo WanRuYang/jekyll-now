@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Random topics on data analysis, mapping, and baking.
+A map is worth a thousand words (*ﾟー^)/'`*:;,．★
 
 ### Contact me
 
