@@ -12,7 +12,7 @@ My macaroon experiment:
 5) Performed experimental baking
 6) Tested different recipes and recorded the effects of humidity 
 
-In my second post, I will posted the complete directions and analysis result: 
+In my second post, I will post the complete direction and analysis result:-) 
 
 #### Ingredients
 - 1 egg white
