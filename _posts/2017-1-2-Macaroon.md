@@ -2,14 +2,17 @@
 layout: post
 title: French Macaroons Recipe
 ---
-
-Could not find good macaroon in California, so I decided to make my own. 
-The first step was to collect recipes online, and compare all the 
-recipes and photos posted to pick/assemble the one I liked. 
-
-After several trials, here is my product:
-
 ![Macaroon](https://wanruyang.github.io/images/macaroon.jpg)
+
+My macaroon experiment:
+1) Googled recipes 
+2) Visualized proportion of primary ingredients
+3) Compared direction and oven temperature of each recipe
+4) Measure room temperature and humidity 
+5) Performed experimental baking
+6) Tested different recipe and record the effects of humidity 
+
+In my second post, I will posted the complete directions and analysis result: 
 
 #### Ingredients
 - 1 egg white
@@ -17,9 +20,5 @@ After several trials, here is my product:
 - 70 g powdered sugar
 - 15 g white sugar
 - some cream cheese and preserved fruit for filling 
-
-#### Directons
-- Temperature 350 preheat -300 -250 -200 -off
-- To be updated 
 
 
