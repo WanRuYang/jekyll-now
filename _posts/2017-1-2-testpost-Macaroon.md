@@ -10,7 +10,7 @@ My macaroon experiment:
 3) Compared direction and oven temperature of each recipe
 4) Measure room temperature and humidity 
 5) Performed experimental baking
-6) Tested different recipe and record the effects of humidity 
+6) Tested different recipes and recorded the effects of humidity 
 
 In my second post, I will posted the complete directions and analysis result: 
 
